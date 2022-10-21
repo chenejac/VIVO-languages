@@ -3072,7 +3072,7 @@ prop-data:profile_type.VIVO-languages
 prop-data:research_capitalized.VIVO-languages
         rdf:type         owl:NamedIndividual ;
         rdf:type         prop:PropertyKey ;
-        rdfs:label       "Research"@en-CA ;
+        rdfs:label       "Research ttl"@en-CA ;
         prop:hasApp      "VIVO" ;
         prop:hasKey      "research_capitalized" ;
         prop:hasPackage  "VIVO-languages" .
