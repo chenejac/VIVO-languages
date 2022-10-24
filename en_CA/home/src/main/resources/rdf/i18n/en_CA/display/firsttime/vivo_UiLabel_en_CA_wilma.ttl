@@ -1241,12 +1241,3 @@ prop-data:return_to_grant.VIVO-languages.wilma
         prop:hasKey      "return_to_grant" ;
         prop:hasPackage  "VIVO-languages" ;
         prop:hasTheme    "wilma" .
-
-prop-data:research_capitalized.VIVO-languages.wilma
-        rdf:type         owl:NamedIndividual ;
-        rdf:type         prop:PropertyKey ;
-        rdfs:label       "Research ttl wilma"@en-CA ;
-        prop:hasApp      "VIVO" ;
-        prop:hasKey      "research_capitalized" ;
-        prop:hasPackage  "VIVO-languages" ;
-        prop:hasTheme    "wilma" .

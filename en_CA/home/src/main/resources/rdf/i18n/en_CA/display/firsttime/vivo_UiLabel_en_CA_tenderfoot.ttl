@@ -1267,12 +1267,3 @@ prop-data:for.VIVO-languages.tenderfoot
         prop:hasKey      "for" ;
         prop:hasPackage  "VIVO-languages" ;
         prop:hasTheme    "tenderfoot" .
-
-prop-data:research_capitalized.VIVO-languages.tenderfoot
-        rdf:type         owl:NamedIndividual ;
-        rdf:type         prop:PropertyKey ;
-        rdfs:label       "Research ttl tenderfoot"@en-CA ;
-        prop:hasApp      "VIVO" ;
-        prop:hasKey      "research_capitalized" ;
-        prop:hasPackage  "VIVO-languages" ;
-        prop:hasTheme    "tenderfoot" .
