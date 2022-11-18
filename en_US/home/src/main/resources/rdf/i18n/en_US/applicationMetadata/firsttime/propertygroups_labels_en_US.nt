@@ -1,3 +1,4 @@
+# xcfv$This file is distributed under the terms of the license in LICENSE$
 <http://vivoweb.org/ontology#vitroPropertyGroupaffiliation> <http://www.w3.org/2000/01/rdf-schema#label> "affiliation"@en-US .
 <http://vivoweb.org/ontology#vitroPropertyGroupidentifiers> <http://www.w3.org/2000/01/rdf-schema#label> "identity"@en-US .
 <http://vivoweb.org/ontology#vitroPropertyGroupaddress> <http://www.w3.org/2000/01/rdf-schema#label> "contact"@en-US .

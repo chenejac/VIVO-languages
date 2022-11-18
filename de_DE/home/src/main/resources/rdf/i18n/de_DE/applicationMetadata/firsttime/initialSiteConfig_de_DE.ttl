@@ -1,3 +1,4 @@
+# xcfv$This file is distributed under the terms of the license in LICENSE$
 # baseURI: file:///vivo-languages_i18n/applicationMetadata/firsttime/initialSiteConfig_fr_CA.rdf
 
 @prefix owl: <http://www.w3.org/2002/07/owl#> .

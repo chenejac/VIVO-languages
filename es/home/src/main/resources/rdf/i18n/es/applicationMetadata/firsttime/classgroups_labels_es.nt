@@ -1,3 +1,4 @@
+# xcfv$This file is distributed under the terms of the license in LICENSE$
 <http://vivoweb.org/ontology#vitroClassGrouppeople> <http://www.w3.org/2000/01/rdf-schema#label> "personas"@es .
 <http://vivoweb.org/ontology#vitroClassGrouppublications> <http://www.w3.org/2000/01/rdf-schema#label> "investigaciones"@es .
 <http://vivoweb.org/ontology#vitroClassGrouporganizations> <http://www.w3.org/2000/01/rdf-schema#label> "organizaciones"@es .

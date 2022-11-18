@@ -1,3 +1,4 @@
+# xcfv$This file is distributed under the terms of the license in LICENSE$
 <http://vitro.mannlib.cornell.edu/ontologies/display/1.1#DefaultMenu> <http://www.w3.org/2000/01/rdf-schema#label> "Menu Padrão"@pt-BR .
 <http://vitro.mannlib.cornell.edu/ontologies/display/1.1#HomeMenuItem> <http://vitro.mannlib.cornell.edu/ontologies/display/1.1#linkText> "Home"@pt-BR .
 <http://vitro.mannlib.cornell.edu/ontologies/display/1.1#PeopleMenuItem> <http://vitro.mannlib.cornell.edu/ontologies/display/1.1#linkText> "Pessoas"@pt-BR .

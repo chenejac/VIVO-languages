@@ -1,3 +1,4 @@
+# xcfv$This file is distributed under the terms of the license in LICENSE$
 @prefix display: <http://vitro.mannlib.cornell.edu/ontologies/display/1.1#> .
 
 display:HomeMenuItem display:linkText "Home"@de-DE .

@@ -1,3 +1,4 @@
+# xcfv$This file is distributed under the terms of the license in LICENSE$
 @prefix bibo:    <http://purl.org/ontology/bibo/> .
 @prefix cito:    <http://purl.org/spar/cito/> .
 @prefix c4o:     <http://purl.org/spar/c4o/> .

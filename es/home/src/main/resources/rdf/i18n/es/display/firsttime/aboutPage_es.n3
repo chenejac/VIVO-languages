@@ -1,4 +1,5 @@
-# $Este archivo esta distribuido sobre los terminos de la licencia en /doc/license.txt$ 
+# xcfv$This file is distributed under the terms of the license in LICENSE$
+# $Este archivo esta distribuido sobre los terminos de la licencia en /doc/license.txt$
 
 @prefix about: <http://vitro.mannlib.cornell.edu/ns/default/about#> .
 

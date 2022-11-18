@@ -1,3 +1,4 @@
+# xcfv$This file is distributed under the terms of the license in LICENSE$
 # baseURI: http://vivoweb.org/ontology/propertygroups_labels_en_CA
 
 <http://vivoweb.org/ontology#vitroPropertyGroupidentifiers> <http://www.w3.org/2000/01/rdf-schema#label> "identity"@en-CA .
